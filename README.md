@@ -12,20 +12,20 @@
 
 ### I am good at:
 
-#### Languages <br/>
+- Languages - 
 <img align="left" alt="HTML" width="26px" src="https://www.prashantshinde.in/assets/images/skills/html.png" />
 <img align="left" alt="CSS" width="26px" src="https://www.prashantshinde.in/assets/images/skills/css.png" />
 <img align="left" alt="Javascript" width="26px" src="https://www.prashantshinde.in/assets/images/skills/javascript.png" />
 <img align="left" alt="C++" width="26px" src="https://www.prashantshinde.in/assets/images/skills/cpp.png" />
-#### Frontend <br/>
+- Frontend -
 <img align="left" alt="Angular" width="26px" src="https://www.prashantshinde.in/assets/images/skills/angular.png" />
 <img align="left" alt="React" width="26px" src="https://www.prashantshinde.in/assets/images/skills/react.png" />
-#### Backend  <br/>
+- Backend -
 <img align="left" alt="Nodejs" width="26px" src="https://www.prashantshinde.in/assets/images/skills/nodejs.png" />
 <img align="left" alt="ExpressJS" width="26px" src="https://www.prashantshinde.in/assets/images/skills/expressjs.png" />
-#### Mobile  <br/>
+- Mobile -
 <img align="left" alt="Ionic" width="26px" src="https://www.prashantshinde.in/assets/images/skills/ionic.png" />
-#### Databases  <br/>
+- Databases -
 <img align="left" alt="MongoDB" width="26px" src="https://www.prashantshinde.in/assets/images/skills/mongo.png" />
 <img align="left" alt="MySQL" width="26px" src="https://www.prashantshinde.in/assets/images/skills/mysql.png" />
 
