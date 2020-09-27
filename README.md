@@ -14,33 +14,33 @@
 
 Languages
 
-<img alt="HTML" width="20px" src="https://www.prashantshinde.in/assets/images/skills/html.png" />
-<img alt="CSS" width="20px" src="https://www.prashantshinde.in/assets/images/skills/css.png" />
-<img alt="Javascript" width="20px" src="https://www.prashantshinde.in/assets/images/skills/javascript.png" />
-<img alt="C++" width="20px" src="https://www.prashantshinde.in/assets/images/skills/cpp.png" />
+<img align="left" alt="HTML" width="20px" src="https://www.prashantshinde.in/assets/images/skills/html.png" />
+<img align="left" alt="CSS" width="20px" src="https://www.prashantshinde.in/assets/images/skills/css.png" />
+<img align="left" alt="Javascript" width="20px" src="https://www.prashantshinde.in/assets/images/skills/javascript.png" />
+<img align="left" alt="C++" width="20px" src="https://www.prashantshinde.in/assets/images/skills/cpp.png" />
 
 
 Frontend 
 
-<img alt="Angular" width="20px" src="https://www.prashantshinde.in/assets/images/skills/angular.png" />
-<img alt="React" width="20px" src="https://www.prashantshinde.in/assets/images/skills/react.png" />
+<img align="left" alt="Angular" width="20px" src="https://www.prashantshinde.in/assets/images/skills/angular.png" />
+<img align="left" alt="React" width="20px" src="https://www.prashantshinde.in/assets/images/skills/react.png" />
 
 
 Backend 
 
-<img alt="Nodejs" width="20px" src="https://www.prashantshinde.in/assets/images/skills/nodejs.png" />
-<img alt="ExpressJS" width="20px" src="https://www.prashantshinde.in/assets/images/skills/expressjs.png" />
+<img align="left" alt="Nodejs" width="20px" src="https://www.prashantshinde.in/assets/images/skills/nodejs.png" />
+<img align="left" alt="ExpressJS" width="20px" src="https://www.prashantshinde.in/assets/images/skills/expressjs.png" />
 
 
 Mobile 
 
-<img alt="Ionic" width="20px" src="https://www.prashantshinde.in/assets/images/skills/ionic.png" />
+<img align="left" alt="Ionic" width="20px" src="https://www.prashantshinde.in/assets/images/skills/ionic.png" />
 
 
 Databases 
 
-<img alt="MongoDB" width="20px" src="https://www.prashantshinde.in/assets/images/skills/mongo.png" />
-<img alt="MySQL" width="20px" src="https://www.prashantshinde.in/assets/images/skills/mysql.png" />
+<img align="left" alt="MongoDB" width="20px" src="https://www.prashantshinde.in/assets/images/skills/mongo.png" />
+<img align="left" alt="MySQL" width="20px" src="https://www.prashantshinde.in/assets/images/skills/mysql.png" />
 <br />
 <br />
 
