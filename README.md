@@ -12,25 +12,25 @@
 
 ### I am good at:
 
-- Languages: 
--- <img alt="HTML" width="26px" src="https://www.prashantshinde.in/assets/images/skills/html.png" />
--- <img alt="CSS" width="26px" src="https://www.prashantshinde.in/assets/images/skills/css.png" />
--- <img alt="Javascript" width="26px" src="https://www.prashantshinde.in/assets/images/skills/javascript.png" />
--- <img alt="C++" width="26px" src="https://www.prashantshinde.in/assets/images/skills/cpp.png" />
-
-- Frontend: 
--- <img alt="Angular" width="26px" src="https://www.prashantshinde.in/assets/images/skills/angular.png" />
--- <img alt="React" width="26px" src="https://www.prashantshinde.in/assets/images/skills/react.png" />
-
-- Backend: 
--- <img alt="Nodejs" width="26px" src="https://www.prashantshinde.in/assets/images/skills/nodejs.png" />
--- <img alt="ExpressJS" width="26px" src="https://www.prashantshinde.in/assets/images/skills/expressjs.png" />
-
-- Mobile: 
--- <img alt="Ionic" width="26px" src="https://www.prashantshinde.in/assets/images/skills/ionic.png" />
-
-- Databases: <img align="left" alt="MongoDB" width="26px" src="https://www.prashantshinde.in/assets/images/skills/mongo.png" />
--- <img alt="MySQL" width="26px" src="https://www.prashantshinde.in/assets/images/skills/mysql.png" />
+#### Languages <br/>
+<img alt="HTML" width="26px" src="https://www.prashantshinde.in/assets/images/skills/html.png" />
+<img alt="CSS" width="26px" src="https://www.prashantshinde.in/assets/images/skills/css.png" />
+<img alt="Javascript" width="26px" src="https://www.prashantshinde.in/assets/images/skills/javascript.png" />
+<img alt="C++" width="26px" src="https://www.prashantshinde.in/assets/images/skills/cpp.png" />
+<br/> <br/>
+#### Frontend <br/> 
+<img alt="Angular" width="26px" src="https://www.prashantshinde.in/assets/images/skills/angular.png" />
+<img alt="React" width="26px" src="https://www.prashantshinde.in/assets/images/skills/react.png" />
+<br/> <br/>
+#### Backend <br/> 
+<img alt="Nodejs" width="26px" src="https://www.prashantshinde.in/assets/images/skills/nodejs.png" />
+<img alt="ExpressJS" width="26px" src="https://www.prashantshinde.in/assets/images/skills/expressjs.png" />
+<br/> <br/>
+#### Mobile <br/>
+<img alt="Ionic" width="26px" src="https://www.prashantshinde.in/assets/images/skills/ionic.png" />
+<br/> <br/>
+#### Databases: <img align="left" alt="MongoDB" width="26px" src="https://www.prashantshinde.in/assets/images/skills/mongo.png" />
+<img alt="MySQL" width="26px" src="https://www.prashantshinde.in/assets/images/skills/mysql.png" />
 
 <br />
 <br />
