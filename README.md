@@ -15,7 +15,7 @@
 <img align="left" alt="Angular" width="26px" src="https://www.prashantshinde.in/assets/images/skills/angular.png" />
 <img align="left" alt="React" width="26px" src="https://www.prashantshinde.in/assets/images/skills/react.png" />
 <img align="left" alt="Nodejs" width="26px" src="https://www.prashantshinde.in/assets/images/skills/nodejs.png" />
-<img align="left" alt="Express" width="26px" src="https://www.prashantshinde.in/assets/images/skills/express.png" />
+<img align="left" alt="ExpressJS" width="26px" src="https://www.prashantshinde.in/assets/images/skills/expressjs.png" />
 <img align="left" alt="Ionic" width="26px" src="https://www.prashantshinde.in/assets/images/skills/ionic.png" />
 <img align="left" alt="HTML" width="26px" src="https://www.prashantshinde.in/assets/images/skills/html.png" />
 <img align="left" alt="CSS" width="26px" src="https://www.prashantshinde.in/assets/images/skills/css.png" />
