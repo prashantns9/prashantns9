@@ -24,6 +24,7 @@
 <img align="left" alt="MySQL" width="28px" src="https://www.prashantshinde.in/assets/images/skills/mysql.png" />
 <br />
 <br />
+
 [website]: https://www.prashantshinde.in
 [instagram]: https://instagram.com/prashantns9
 [linkedin]: https://linkedin.com/in/prashantns9
