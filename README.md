@@ -10,7 +10,7 @@
 
 <br />
 
-### Languages and Tools:
+### I am good at:
 
 <img align="left" alt="Angular" width="26px" src="https://www.prashantshinde.in/assets/images/skills/angular.png" />
 <img align="left" alt="React" width="26px" src="https://www.prashantshinde.in/assets/images/skills/react.png" />
